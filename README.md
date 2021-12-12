@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @KhaledEbrahim1
-- 👀 I’m interested in ...python
-- 🌱 I’m currently learning ...python and desktop app
+- 👀 I’m interested in ...python 
+- 🌱 I’m currently learning ...python and desktop app and django 
+- I’m backend developer with (django)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
