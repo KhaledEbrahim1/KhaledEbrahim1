@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KhaledEbrahim1
-- 👀 I’m interested in ...python 
-- 🌱 I’m currently learning ...python and desktop app and django 
+- 👀 I’m interested in ...python ,php 
+- 🌱 I’m currently learning ...python and desktop app and django  php (laravel)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
