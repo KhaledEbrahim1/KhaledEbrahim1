@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @KhaledEbrahim1
-- 👀 I’m interested in ... ,php 
-- 🌱 I’m currently learning ... php (laravel)
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-KhaledEbrahim1/KhaledEbrahim1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I'm Khaled Ebrahim, a Software Engineer passionate about building scalable and reliable software solutions.
+- 💻 I specialize in **PHP, Laravel, Backend Engineering, RESTful APIs, and System Architecture**.
+- 🚀 Experienced in developing complex business systems, workflow engines, real-time applications, and third-party integrations.
+- ⚡ Working with **React, Next.js, TypeScript, MySQL, Redis, Docker, and Linux** to deliver end-to-end solutions.
+- 🧠 Interested in System Design, Software Architecture, Performance Optimization, and Distributed Systems.
+- 🤝 Open to collaborating on challenging projects and building impactful products.
